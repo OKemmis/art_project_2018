@@ -5,3 +5,4 @@ Click on the thumbnail below to be redirected to YouTube. The video of the worki
 
 [![video of working app](pic.png)](https://youtu.be/6AcObVanpRA "video of working app")
 
+Click [here](https://okemmis.github.io/weird_line_generator.github.io/) to install the app for yourself!
